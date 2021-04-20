@@ -63,7 +63,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    box-shadow: 2px 2px 10px;
+    box-shadow: 2px 2px 10px #000;
     cursor: pointer;
     position: absolute;
     top: 0;
