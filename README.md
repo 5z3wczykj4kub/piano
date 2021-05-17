@@ -1,3 +1,1 @@
-# Piano
 
-![](screenshot.png)
